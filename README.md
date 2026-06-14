@@ -64,7 +64,6 @@
       </a>
     </td>
     <td width="50%">
-      
       <a href="https://github.com/DivyanshMahor/Vane---Shopping_App">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyanshMahor&repo=Vane---Shopping_App&theme=tokyonight" />
       </a>
