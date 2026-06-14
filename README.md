@@ -64,8 +64,9 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/DivyanshMahor/ChattingApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyanshMahor&repo=ChattingApp&theme=tokyonight" />
+      
+      <a href="https://github.com/DivyanshMahor/Vane---Shopping_App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyanshMahor&repo=Vane---Shopping_App&theme=tokyonight" />
       </a>
     </td>
   </tr>
@@ -77,7 +78,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DivyanshMahor&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshMahor&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  
 </p>
 
 <p align="center">
